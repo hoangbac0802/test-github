@@ -1,0 +1,15 @@
+C:\Users\bacho\OneDrive\Máy tính\Bacc\bin\Debug\net7.0\Bacc.exe
+C:\Users\bacho\OneDrive\Máy tính\Bacc\bin\Debug\net7.0\Bacc.deps.json
+C:\Users\bacho\OneDrive\Máy tính\Bacc\bin\Debug\net7.0\Bacc.runtimeconfig.json
+C:\Users\bacho\OneDrive\Máy tính\Bacc\bin\Debug\net7.0\Bacc.dll
+C:\Users\bacho\OneDrive\Máy tính\Bacc\bin\Debug\net7.0\Bacc.pdb
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\Bacc.csproj.AssemblyReference.cache
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\Bacc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\Bacc.AssemblyInfoInputs.cache
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\Bacc.AssemblyInfo.cs
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\Bacc.csproj.CoreCompileInputs.cache
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\Bacc.dll
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\refint\Bacc.dll
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\Bacc.pdb
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\Bacc.genruntimeconfig.cache
+C:\Users\bacho\OneDrive\Máy tính\Bacc\obj\Debug\net7.0\ref\Bacc.dll
